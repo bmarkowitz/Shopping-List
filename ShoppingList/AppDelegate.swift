@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Challenge2
+//  ShoppingList
 //
 //  Created by Brett Markowitz on 11/3/19.
 //  Copyright © 2019 Brett Markowitz. All rights reserved.
